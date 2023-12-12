@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharath Boini</h1>
-<h3 align="center">I'm a cloud DevOps Engineer from the United States</h3>
+<h3 align="center">I'm a Cloud DevOps Engineer from the United States</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharathb1" alt="sharathb1" /></a> </p>
 
